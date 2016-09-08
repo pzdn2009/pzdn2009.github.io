@@ -1,1 +1,7 @@
-{"name":"My First Article","tagline":"for test","body":"this is some test info!`while(true){ live();}`\r\n\r\nI love the timespan !\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "My First Article",
+  "tagline": "for test",
+  "body": "this is some test info!`while(true){ live();}`\r\n\r\nI love the timespan !\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
