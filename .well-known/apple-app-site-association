@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "92GCC45B47.com.pzdn2009.FoShiCounter",
+          "92GCC45B47.com.pzdn2009.FoShiCounterFlutter"
+        ],
+        "components": [
+          { "/": "/shannian-app/join", "comment": "善念共修邀请链接" }
+        ]
+      }
+    ]
+  }
+}

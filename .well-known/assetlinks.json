@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pzdn2009.shannian.flutter",
+      "sha256_cert_fingerprints": [
+        "FD:E3:46:23:73:34:4D:CF:03:95:FD:C9:DF:A0:D2:CE:66:79:79:EE:1B:26:3B:9F:28:D8:24:F2:05:F7:55:FA"
+      ]
+    }
+  }
+]
